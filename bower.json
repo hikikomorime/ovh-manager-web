@@ -38,7 +38,7 @@
     "ovh-module-sharepoint": "^5.1.0",
     "ovh-module-exchange": "~7.1.0",
     "ovh-module-office": "^5.0.0",
-    "ovh-module-emailpro": "^5.1.0",
+    "ovh-module-emailpro": "#fix\/mode-switching-text",
     "ovh-angular-proxy-request": "^0.1.0",
     "ovh-angular-http": "^3.0.1",
     "ipaddr.js": "git+https://github.com/whitequark/ipaddr.js",
